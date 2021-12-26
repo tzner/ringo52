@@ -1,0 +1,26 @@
+.header-logo{
+    background-color:crimson;
+    font-family:serif;
+    font-size:40px;
+    color:white;
+    padding:30px;
+}
+.text1{
+    font-family:serif;
+    font-size:20px;
+    list-style:none;
+}
+.text2{
+    font-family:serif;
+    font-size:15px;
+    list-style:none;
+}
+footer{
+    background-color:crimson;
+}
+.footer-logo{
+    float:left;
+}
+.foooter-list{
+    float:right;
+}
